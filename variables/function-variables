@@ -1,0 +1,13 @@
+{
+  "my_string_secret": {
+    "value": "Hello World!",
+    "type": "object"
+  },
+  "my_app_credentials": {
+    "value": {
+      "client_id": "MY_APP_ID",
+      "client_secret": "MY_APP_SECRET"
+    },
+    "type": "object"
+  }
+}
